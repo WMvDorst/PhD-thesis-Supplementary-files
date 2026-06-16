@@ -30,6 +30,3 @@ This repository contains the supplementary materials for the thesis listed above
 
 If you use any of the materials in this repository, please cite the corresponding thesis chapter or associated publication.
 
-## License
-
-[Specify license, e.g., MIT, CC-BY-4.0, or "All rights reserved" pending publication]
